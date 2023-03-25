@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coinbase-trading-order-book/static/js/main.e1cc2275.js",
+    "index.html": "/coinbase-trading-order-book/index.html",
+    "main.e1cc2275.js.map": "/coinbase-trading-order-book/static/js/main.e1cc2275.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e1cc2275.js"
+  ]
+}
